@@ -2,7 +2,7 @@ We have created a free tool to convert WooCommerce data into Magento 2-compatibl
 You can use this tool to convert your product, customer, and order data into files that are ready to import into Magento 2.
 Once converted, the product and customer files can be imported using Magento's built-in Import feature. Orders require a third-party Order Import extension since Magento does not provide a built-in order importer.
 
-Please see the detailed instructions at : 
+Please see the detailed instructions at: **https://firstwireapp.com/blog/woocommerce-to-magento-migration-free-tool/**
 
 See the code and guide below.
 
